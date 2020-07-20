@@ -1,13 +1,13 @@
 /*BEGIN PS4 Controller Styling*/
 
 .controller.ds4 {
-    background: url(https://nikhunter.github.io/customgamepadskin/base.svgz);
+    background: url(https://nikhunter.github.io/customgamepadskin/base.png);
     height: 598px;
     width: 806px;
 }
 
 .ds4.disconnected {
-    background: url(https://nikhunter.github.io/customgamepadskin/disconnected.svgz);
+    background: url(https://nikhunter.github.io/customgamepadskin/disconnected.png);
 }
 
 .ds4.disconnected div {
@@ -24,7 +24,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://nikhunter.github.io/customgamepadskin/triggers.svgz);
+    background: url(https://nikhunter.github.io/customgamepadskin/triggers.png);
     opacity: 0;
 }
 
@@ -40,7 +40,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://nikhunter.github.io/customgamepadskin/bumper.svgz) no-repeat;
+    background: url(https://nikhunter.github.io/customgamepadskin/bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(https://nikhunter.github.io/customgamepadskin/touchpad.svgz) no-repeat center;
+    background: url(https://nikhunter.github.io/customgamepadskin/touchpad.png) no-repeat center;
 }
 
 .ds4 .arrows {
@@ -86,7 +86,7 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://nikhunter.github.io/customgamepadskin/start.svgz);
+    background: url(https://nikhunter.github.io/customgamepadskin/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -117,7 +117,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://nikhunter.github.io/customgamepadskin/face.svgz);
+    background: url(https://nikhunter.github.io/customgamepadskin/face.png);
 }
 
 .ds4 .button.pressed {
@@ -156,7 +156,7 @@
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://nikhunter.github.io/customgamepadskin/sticks.svgz);
+    background: url(https://nikhunter.github.io/customgamepadskin/sticks.png);
     height: 94px;
     width: 94px;
 }
@@ -188,7 +188,7 @@
 }
 
 .ds4 .face {
-    background: url(https://nikhunter.github.io/customgamepadskin/dpad.svgz);
+    background: url(https://nikhunter.github.io/customgamepadskin/dpad.png);
     position: absolute;
 }
 
