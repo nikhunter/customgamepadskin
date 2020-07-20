@@ -92,7 +92,12 @@
     opacity: 0;
 }
 
-.ds4 .back.pressed, .ds4 .start.pressed {
+.ds4 .back.pressed {
+    opacity: 1;
+}
+
+.ds4 .start.pressed {
+    margin-right: -1px;
     opacity: 1;
 }
 
